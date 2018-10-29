@@ -1,0 +1,18 @@
+{
+  "name": "@pdw.io/resizer",
+  "version": "0.1.0",
+  "description": "A very opiniated resize-observer manager.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimdewit/resizer.git"
+  },
+  "keywords": [
+    "resize",
+    "observer",
+    "javascript",
+    "manager"
+  ],
+  "author": "Pim de Wit <https://pdw.io>",
+  "license": "MIT"
+}
